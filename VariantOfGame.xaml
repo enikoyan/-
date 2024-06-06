@@ -1,0 +1,17 @@
+﻿<Page x:Class="Игра_в_слова.VariantOfGame"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Игра_в_слова"
+      mc:Ignorable="d" 
+      Background="#F4F4F4"
+      Title="Игра в слова" Height="600" Width="950" MinHeight="600" MaxHeight="600" MinWidth="950" MaxWidth="950">
+
+    <Grid>
+        <Image Source="Resources/Images/bgLines.png" Stretch="Fill" Opacity="0.05" Margin="-278,-85,-280,-163" RenderTransformOrigin="0.5,0.5"/>
+        <TextBlock Style="{DynamicResource TextBlock}" FontWeight="Black" FontSize="70" HorizontalAlignment="Left" Margin="122,192,0,0" TextWrapping="Wrap" Text="Выберите тип игры" VerticalAlignment="Top" Width="764"/>
+        <Button x:Name="signIn" IsDefault="True" Content="Войти в аккаунт" Style="{DynamicResource MainButton}" Margin="257,314,514,227" Click="SignIn_Click"/>
+        <Button x:Name="playWithoutSignIn" IsCancel="True" Content="Без сохранения" Style="{DynamicResource SecondButton}" Margin="459,314,312,227" Click="PlayWithoutSignIn_Click"/>
+    </Grid>
+</Page>

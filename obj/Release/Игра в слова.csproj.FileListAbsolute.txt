@@ -1,0 +1,208 @@
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\Игра в слова.exe.config
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\Игра в слова.exe
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\Игра в слова.pdb
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Dictionary1.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\FinalSetting.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Game.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\MainPage.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\MainWindow.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Rules.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Settings.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\App.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра в слова_Content.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра в слова_MarkupCompile.cache
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра в слова_MarkupCompile.lref
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\App.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\FinalSetting.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Game.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\MainPage.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\MainWindow.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Rules.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Settings.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра в слова.g.resources
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра_в_слова.Properties.Resources.resources
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра в слова.csproj.GenerateResource.cache
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра в слова.csproj.CoreCompileInputs.cache
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра в слова.exe
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра в слова.pdb
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\VariantOfGame.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\VariantOfGame.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\SignIn.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\SignIn.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\SignUp.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\SignUp.baml
+C:\prog3\Игра в слова\bin\Release\Игра в слова.exe.config
+C:\prog3\Игра в слова\bin\Release\Игра в слова.exe
+C:\prog3\Игра в слова\bin\Release\Игра в слова.pdb
+C:\prog3\Игра в слова\obj\Release\Dictionary1.baml
+C:\prog3\Игра в слова\obj\Release\FinalSetting.g.cs
+C:\prog3\Игра в слова\obj\Release\Game.g.cs
+C:\prog3\Игра в слова\obj\Release\MainPage.g.cs
+C:\prog3\Игра в слова\obj\Release\MainWindow.g.cs
+C:\prog3\Игра в слова\obj\Release\Rules.g.cs
+C:\prog3\Игра в слова\obj\Release\Settings.g.cs
+C:\prog3\Игра в слова\obj\Release\SignIn.g.cs
+C:\prog3\Игра в слова\obj\Release\SignUp.g.cs
+C:\prog3\Игра в слова\obj\Release\VariantOfGame.g.cs
+C:\prog3\Игра в слова\obj\Release\App.g.cs
+C:\prog3\Игра в слова\obj\Release\Игра в слова_Content.g.cs
+C:\prog3\Игра в слова\obj\Release\Игра в слова_MarkupCompile.cache
+C:\prog3\Игра в слова\obj\Release\Игра в слова_MarkupCompile.lref
+C:\prog3\Игра в слова\obj\Release\App.baml
+C:\prog3\Игра в слова\obj\Release\FinalSetting.baml
+C:\prog3\Игра в слова\obj\Release\Game.baml
+C:\prog3\Игра в слова\obj\Release\MainPage.baml
+C:\prog3\Игра в слова\obj\Release\MainWindow.baml
+C:\prog3\Игра в слова\obj\Release\Rules.baml
+C:\prog3\Игра в слова\obj\Release\Settings.baml
+C:\prog3\Игра в слова\obj\Release\SignIn.baml
+C:\prog3\Игра в слова\obj\Release\SignUp.baml
+C:\prog3\Игра в слова\obj\Release\VariantOfGame.baml
+C:\prog3\Игра в слова\obj\Release\Игра в слова.g.resources
+C:\prog3\Игра в слова\obj\Release\Игра_в_слова.Properties.Resources.resources
+C:\prog3\Игра в слова\obj\Release\Игра в слова.csproj.GenerateResource.cache
+C:\prog3\Игра в слова\obj\Release\Игра в слова.csproj.CoreCompileInputs.cache
+C:\prog3\Игра в слова\obj\Release\Игра в слова.exe
+C:\prog3\Игра в слова\obj\Release\Игра в слова.pdb
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра в слова.exe.config
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра в слова.csproj.CopyComplete
+D:\Игра в слова\bin\Release\Игра в слова.exe.config
+D:\Игра в слова\bin\Release\Игра в слова.exe
+D:\Игра в слова\bin\Release\Игра в слова.pdb
+D:\Игра в слова\obj\Release\Dictionary1.baml
+D:\Игра в слова\obj\Release\FinalSetting.g.cs
+D:\Игра в слова\obj\Release\Game.g.cs
+D:\Игра в слова\obj\Release\MainPage.g.cs
+D:\Игра в слова\obj\Release\MainWindow.g.cs
+D:\Игра в слова\obj\Release\Rules.g.cs
+D:\Игра в слова\obj\Release\Settings.g.cs
+D:\Игра в слова\obj\Release\SignIn.g.cs
+D:\Игра в слова\obj\Release\SignUp.g.cs
+D:\Игра в слова\obj\Release\VariantOfGame.g.cs
+D:\Игра в слова\obj\Release\App.g.cs
+D:\Игра в слова\obj\Release\Игра в слова_Content.g.cs
+D:\Игра в слова\obj\Release\Игра в слова_MarkupCompile.cache
+D:\Игра в слова\obj\Release\Игра в слова_MarkupCompile.lref
+D:\Игра в слова\obj\Release\App.baml
+D:\Игра в слова\obj\Release\FinalSetting.baml
+D:\Игра в слова\obj\Release\Game.baml
+D:\Игра в слова\obj\Release\MainPage.baml
+D:\Игра в слова\obj\Release\MainWindow.baml
+D:\Игра в слова\obj\Release\Rules.baml
+D:\Игра в слова\obj\Release\Settings.baml
+D:\Игра в слова\obj\Release\SignIn.baml
+D:\Игра в слова\obj\Release\SignUp.baml
+D:\Игра в слова\obj\Release\VariantOfGame.baml
+D:\Игра в слова\obj\Release\Игра в слова.g.resources
+D:\Игра в слова\obj\Release\Игра_в_слова.Properties.Resources.resources
+D:\Игра в слова\obj\Release\Игра в слова.csproj.GenerateResource.cache
+D:\Игра в слова\obj\Release\Игра в слова.csproj.CoreCompileInputs.cache
+D:\Игра в слова\obj\Release\Игра в слова.exe
+D:\Игра в слова\obj\Release\Игра в слова.pdb
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\Игра в слова.csprojAssemblyReference.cache
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\UserControl1.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\UserControl1.baml
+D:\Игра в слова\obj\Release\UserControl1.g.cs
+D:\Игра в слова\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Игра в слова\obj\Release\UserControl1.baml
+D:\Игра в слова\obj\Release\PersAccount.g.cs
+D:\Игра в слова\obj\Release\PersAccount.baml
+C:\prog3\Игра в слова\obj\Release\PersAccount.g.cs
+C:\prog3\Игра в слова\obj\Release\UserControl1.g.cs
+C:\prog3\Игра в слова\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\prog3\Игра в слова\obj\Release\PersAccount.baml
+C:\prog3\Игра в слова\obj\Release\UserControl1.baml
+C:\prog3\Игра в слова\obj\Release\Игра в слова.csprojResolveAssemblyReference.cache
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\PersAccount.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Release\PersAccount.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\ControlzEx.dll
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\MahApps.Metro.dll
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\Microsoft.Xaml.Behaviors.dll
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\ControlzEx.pdb
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\ControlzEx.xml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\MahApps.Metro.pdb
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\MahApps.Metro.xml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\Microsoft.Xaml.Behaviors.pdb
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\Microsoft.Xaml.Behaviors.xml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Release\de\MahApps.Metro.resources.dll
+E:\Игра в слова\bin\Release\Игра в слова.exe.config
+E:\Игра в слова\bin\Release\Игра в слова.exe
+E:\Игра в слова\bin\Release\Игра в слова.pdb
+E:\Игра в слова\obj\Release\Игра в слова.csprojAssemblyReference.cache
+E:\Игра в слова\obj\Release\Dictionary1.baml
+E:\Игра в слова\obj\Release\FinalSetting.g.cs
+E:\Игра в слова\obj\Release\Game.g.cs
+E:\Игра в слова\obj\Release\MainPage.g.cs
+E:\Игра в слова\obj\Release\MainWindow.g.cs
+E:\Игра в слова\obj\Release\PersAccount.g.cs
+E:\Игра в слова\obj\Release\Rules.g.cs
+E:\Игра в слова\obj\Release\Settings.g.cs
+E:\Игра в слова\obj\Release\SignIn.g.cs
+E:\Игра в слова\obj\Release\SignUp.g.cs
+E:\Игра в слова\obj\Release\UserControl1.g.cs
+E:\Игра в слова\obj\Release\VariantOfGame.g.cs
+E:\Игра в слова\obj\Release\App.g.cs
+E:\Игра в слова\obj\Release\Игра в слова_Content.g.cs
+E:\Игра в слова\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Игра в слова\obj\Release\Игра в слова_MarkupCompile.cache
+E:\Игра в слова\obj\Release\Игра в слова_MarkupCompile.lref
+E:\Игра в слова\obj\Release\App.baml
+E:\Игра в слова\obj\Release\FinalSetting.baml
+E:\Игра в слова\obj\Release\Game.baml
+E:\Игра в слова\obj\Release\MainPage.baml
+E:\Игра в слова\obj\Release\MainWindow.baml
+E:\Игра в слова\obj\Release\PersAccount.baml
+E:\Игра в слова\obj\Release\Rules.baml
+E:\Игра в слова\obj\Release\Settings.baml
+E:\Игра в слова\obj\Release\SignIn.baml
+E:\Игра в слова\obj\Release\SignUp.baml
+E:\Игра в слова\obj\Release\UserControl1.baml
+E:\Игра в слова\obj\Release\VariantOfGame.baml
+E:\Игра в слова\obj\Release\Игра в слова.g.resources
+E:\Игра в слова\obj\Release\Игра_в_слова.Properties.Resources.resources
+E:\Игра в слова\obj\Release\Игра в слова.csproj.GenerateResource.cache
+E:\Игра в слова\obj\Release\Игра в слова.csproj.CoreCompileInputs.cache
+E:\Игра в слова\obj\Release\Игра в слова.csproj.CopyComplete
+E:\Игра в слова\obj\Release\Игра в слова.exe
+E:\Игра в слова\obj\Release\Игра в слова.pdb
+D:\Игра в слова\obj\Release\Игра в слова.csprojResolveAssemblyReference.cache
+D:\Новая папка\Игра в слова\obj\Release\Игра в слова.csprojResolveAssemblyReference.cache
+D:\Новая папка\Игра в слова\obj\Release\Dictionary1.baml
+D:\Новая папка\Игра в слова\obj\Release\FinalSetting.g.cs
+D:\Новая папка\Игра в слова\obj\Release\Game.g.cs
+D:\Новая папка\Игра в слова\obj\Release\MainPage.g.cs
+D:\Новая папка\Игра в слова\obj\Release\MainWindow.g.cs
+D:\Новая папка\Игра в слова\obj\Release\PersAccount.g.cs
+D:\Новая папка\Игра в слова\obj\Release\Rules.g.cs
+D:\Новая папка\Игра в слова\obj\Release\Settings.g.cs
+D:\Новая папка\Игра в слова\obj\Release\SignIn.g.cs
+D:\Новая папка\Игра в слова\obj\Release\SignUp.g.cs
+D:\Новая папка\Игра в слова\obj\Release\UserControl1.g.cs
+D:\Новая папка\Игра в слова\obj\Release\VariantOfGame.g.cs
+D:\Новая папка\Игра в слова\obj\Release\App.g.cs
+D:\Новая папка\Игра в слова\obj\Release\Игра в слова_Content.g.cs
+D:\Новая папка\Игра в слова\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Новая папка\Игра в слова\obj\Release\Игра в слова_MarkupCompile.cache
+D:\Новая папка\Игра в слова\obj\Release\Игра в слова_MarkupCompile.lref
+D:\Новая папка\Игра в слова\obj\Release\Игра в слова.exe
+D:\Новая папка\Игра в слова\obj\Release\Игра в слова.pdb
+D:\Новая папка\Игра в слова\bin\Release\Игра в слова.exe.config
+D:\Новая папка\Игра в слова\bin\Release\Игра в слова.exe
+D:\Новая папка\Игра в слова\bin\Release\Игра в слова.pdb
+D:\Новая папка\Игра в слова\obj\Release\App.baml
+D:\Новая папка\Игра в слова\obj\Release\FinalSetting.baml
+D:\Новая папка\Игра в слова\obj\Release\Game.baml
+D:\Новая папка\Игра в слова\obj\Release\MainPage.baml
+D:\Новая папка\Игра в слова\obj\Release\MainWindow.baml
+D:\Новая папка\Игра в слова\obj\Release\PersAccount.baml
+D:\Новая папка\Игра в слова\obj\Release\Rules.baml
+D:\Новая папка\Игра в слова\obj\Release\Settings.baml
+D:\Новая папка\Игра в слова\obj\Release\SignIn.baml
+D:\Новая папка\Игра в слова\obj\Release\SignUp.baml
+D:\Новая папка\Игра в слова\obj\Release\UserControl1.baml
+D:\Новая папка\Игра в слова\obj\Release\VariantOfGame.baml
+D:\Новая папка\Игра в слова\obj\Release\Игра в слова.g.resources
+D:\Новая папка\Игра в слова\obj\Release\Игра_в_слова.Properties.Resources.resources
+D:\Новая папка\Игра в слова\obj\Release\Игра в слова.csproj.GenerateResource.Cache
+D:\Новая папка\Игра в слова\obj\Release\Игра в слова.csproj.CoreCompileInputs.cache

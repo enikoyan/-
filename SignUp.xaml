@@ -1,0 +1,104 @@
+﻿<Page x:Class="Игра_в_слова.SignUp"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Игра_в_слова"
+      mc:Ignorable="d" 
+      Background="#F4F4F4"
+      Title="Игра в слова" Height="600" Width="950" MinHeight="600" MaxHeight="600" MinWidth="950" MaxWidth="950">
+
+    <Page.Resources>
+        <Style TargetType="TextBox" x:Key="TextError" BasedOn="{StaticResource inputStyle}">
+            <Setter Property="Foreground" Value="red"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBox}">
+                        <Border x:Name="border"
+CornerRadius="5"
+BorderBrush="red"
+BorderThickness="2"
+Background="#fff" Opacity="0.3"
+Margin="5,5,5,5"
+>
+                            <ScrollViewer x:Name="PART_ContentHost"
+Focusable="false"
+HorizontalScrollBarVisibility="Hidden"
+VerticalScrollBarVisibility="Hidden"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style TargetType="TextBox" x:Key="TextSuccess" BasedOn="{StaticResource inputStyle}">
+            <Setter Property="Foreground" Value="green"></Setter>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBox}">
+                        <Border x:Name="border"
+CornerRadius="5"
+BorderBrush="green"
+BorderThickness="2"
+Background="#fff" Opacity="0.3"
+Margin="5,5,5,5"
+>
+                            <ScrollViewer x:Name="PART_ContentHost"
+Focusable="false"
+HorizontalScrollBarVisibility="Hidden"
+VerticalScrollBarVisibility="Hidden"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid>
+        <Image Source="Resources/Images/bgLines.png" Stretch="Fill" Opacity="0.05" Margin="-244,-74,-314,-174" RenderTransformOrigin="0.702,0.583"/>
+        <Button x:Name="goBackBtn" Style="{DynamicResource SecondButton}" Margin="783,72,127,490" Content="←" FontSize="28" Foreground="#FF062D4F" Click="goBackBtn_Click"/>
+        <TextBlock Style="{DynamicResource TextBlock}" FontWeight="Black" FontSize="42" HorizontalAlignment="Left" Margin="186,61,0,0" TextWrapping="Wrap" Text="Регистрация" VerticalAlignment="Top" Width="285" RenderTransformOrigin="0.431,0.48"/>
+        <Border Style="{DynamicResource BorderStyle}" BorderThickness="1" BorderBrush="#ebebeb" x:Name="signBg" Background="#f4f4f4" HorizontalAlignment="Left" Height="387" Margin="186,122,0,0" VerticalAlignment="Top" Width="637">
+            <Grid Margin="0,-14,0,14">
+                <Button x:Name="signUpButton" IsDefault="True" Content="Зарегистрироваться" Style="{DynamicResource MainButton}" Margin="27,288,301,39" Click="SignUpButton_Click"/>
+                <Grid x:Name="textBoxes" Margin="0,0,0,-17">
+                    <TextBox PreviewMouseDown="TextBox_PreviewMouseDown" LostFocus="TextBox_LostFocus" x:Name="loginPut" Tag="логин" BorderBrush="Red" MaxLength="15" Text="логин" FontSize="18" Style="{DynamicResource inputStyle}" HorizontalAlignment="Left" Height="56" Margin="23,43,0,0" VerticalAlignment="Top" Width="314"/>
+                    <TextBox PreviewMouseDown="TextBox_PreviewMouseDown" LostFocus="TextBox_LostFocus" MaxLength="30" Tag="пароль" x:Name="passwordPut" Text="пароль" FontSize="18" Style="{DynamicResource inputStyle}" HorizontalAlignment="Left" Height="56" Margin="23,104,0,0" VerticalAlignment="Top" Width="314">
+                        <TextBox.InputBindings>
+                            <!--Disable CTRL+C (COPY) -->
+                            <KeyBinding Command="ApplicationCommands.NotACommand"
+            Key="C"
+            Modifiers="Control" />
+                            <!--Disable CTRL+X (CUT) -->
+                            <KeyBinding Command="ApplicationCommands.NotACommand"
+            Key="X"
+            Modifiers="Control" />
+                        </TextBox.InputBindings>
+                        <TextBox.ContextMenu>
+                            <!--Hide context menu where you could copy/cut as well -->
+                            <ContextMenu Visibility="Collapsed" />
+                        </TextBox.ContextMenu>
+                    </TextBox>
+                    <TextBox PreviewMouseDown="TextBox_PreviewMouseDown" LostFocus="TextBox_LostFocus" Tag="Имя" x:Name="namePut" Text="Имя" FontSize="18" Style="{DynamicResource inputStyle}" HorizontalAlignment="Left" Height="56" Margin="23,165,0,0" VerticalAlignment="Top" Width="314"/>
+                    <TextBox PreviewMouseDown="TextBox_PreviewMouseDown" LostFocus="TextBox_LostFocus" Tag="email" x:Name="emailPut" Text="email" FontSize="18" Style="{DynamicResource inputStyle}" HorizontalAlignment="Left" Height="56" Margin="23,225,0,0" VerticalAlignment="Top" Width="314"/>
+                    <Border Style="{DynamicResource BorderStyle}" BorderThickness="1" BorderBrush="#ebebeb" Background="#f4f4f4" HorizontalAlignment="Left" Height="296" Margin="353,48,0,0" VerticalAlignment="Top" Width="263">
+                        <Grid Margin="20">
+                            <TextBlock FontSize="20" FontWeight="Bold" Text="Пол" Style="{DynamicResource TextBlock}"></TextBlock>
+                            <RadioButton Checked="RadioButton_Checked" x:Name="maleButton" Margin="56,7,16,214" Content="мужской"/>
+                            <RadioButton Checked="RadioButton_Checked" x:Name="femaleButton" Margin="137,7,-65,214" Content="женский"/>
+                            <TextBlock FontSize="20" FontWeight="Bold" Text="Страна" Style="{DynamicResource TextBlock}" Margin="0,37,0,0"></TextBlock>
+                            <ComboBox MaxDropDownHeight="250" x:Name="countriesComboBox" Margin="0,66,0,158"/>
+                            <TextBlock FontSize="20" FontWeight="Bold" Text="Дата рождения" Style="{DynamicResource TextBlock}" Margin="0,175,0,0" Width="211"/>
+                            <TextBox PreviewMouseDown="TextBox_PreviewMouseDown" LostFocus="TextBox_LostFocus" FontSize="18" Tag="*секретное слово" x:Name="secretWordPut" Text="*секретное слово" Style="{DynamicResource inputStyle}" HorizontalAlignment="Left" Height="56" Margin="-5,109,-5,0" VerticalAlignment="Top" Width="231"/>
+                            <DatePicker Background="#D1D6F6" FontFamily="Visby CF Medium" Padding="6" x:Name="datePut" Margin="0,210,10,10"/>
+                        </Grid>
+                    </Border>
+                </Grid>
+                <DockPanel Margin="30 15 15 10" VerticalAlignment="Bottom">
+                    <TextBlock Foreground="Gray" Text="Уже зарегистрированы?"></TextBlock>
+                    <TextBlock PreviewMouseDown="SignInText_PreviewMouseDown" x:Name="signInText" Foreground="Gray" Margin="20 0 0 0" Text="Войдите в аккаунт!" TextDecorations="underline" Style="{DynamicResource regText}"></TextBlock>
+                    <TextBlock PreviewMouseDown="FAQText_PreviewMouseDown" x:Name="FAQText" Text="FAQ" Foreground="CadetBlue" TextDecorations="underline" FontWeight="DemiBold" Margin="0 0 5 0" HorizontalAlignment="Right" Style="{DynamicResource regText}"></TextBlock>
+                </DockPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Page>

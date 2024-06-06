@@ -1,0 +1,114 @@
+C:\prog3\Игра в слова\bin\Debug\Игра в слова.exe.config
+C:\prog3\Игра в слова\bin\Debug\Игра в слова.exe
+C:\prog3\Игра в слова\bin\Debug\Игра в слова.pdb
+C:\prog3\Игра в слова\obj\Debug\Dictionary1.baml
+C:\prog3\Игра в слова\obj\Debug\FinalSetting.g.cs
+C:\prog3\Игра в слова\obj\Debug\Game.g.cs
+C:\prog3\Игра в слова\obj\Debug\MainPage.g.cs
+C:\prog3\Игра в слова\obj\Debug\MainWindow.g.cs
+C:\prog3\Игра в слова\obj\Debug\Rules.g.cs
+C:\prog3\Игра в слова\obj\Debug\Settings.g.cs
+C:\prog3\Игра в слова\obj\Debug\SignIn.g.cs
+C:\prog3\Игра в слова\obj\Debug\SignUp.g.cs
+C:\prog3\Игра в слова\obj\Debug\VariantOfGame.g.cs
+C:\prog3\Игра в слова\obj\Debug\App.g.cs
+C:\prog3\Игра в слова\obj\Debug\Игра в слова_Content.g.cs
+C:\prog3\Игра в слова\obj\Debug\Игра в слова_MarkupCompile.cache
+C:\prog3\Игра в слова\obj\Debug\Игра в слова_MarkupCompile.lref
+C:\prog3\Игра в слова\obj\Debug\App.baml
+C:\prog3\Игра в слова\obj\Debug\FinalSetting.baml
+C:\prog3\Игра в слова\obj\Debug\Game.baml
+C:\prog3\Игра в слова\obj\Debug\MainPage.baml
+C:\prog3\Игра в слова\obj\Debug\MainWindow.baml
+C:\prog3\Игра в слова\obj\Debug\Rules.baml
+C:\prog3\Игра в слова\obj\Debug\Settings.baml
+C:\prog3\Игра в слова\obj\Debug\SignIn.baml
+C:\prog3\Игра в слова\obj\Debug\SignUp.baml
+C:\prog3\Игра в слова\obj\Debug\VariantOfGame.baml
+C:\prog3\Игра в слова\obj\Debug\Игра в слова.g.resources
+C:\prog3\Игра в слова\obj\Debug\Игра_в_слова.Properties.Resources.resources
+C:\prog3\Игра в слова\obj\Debug\Игра в слова.csproj.GenerateResource.cache
+C:\prog3\Игра в слова\obj\Debug\Игра в слова.csproj.CoreCompileInputs.cache
+C:\prog3\Игра в слова\obj\Debug\Игра в слова.exe
+C:\prog3\Игра в слова\obj\Debug\Игра в слова.pdb
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Debug\Игра в слова.exe.config
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Debug\Игра в слова.exe
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Debug\Игра в слова.pdb
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\bin\Debug\MySql.Data.dll
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра в слова.csprojAssemblyReference.cache
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра в слова.exe.config
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Dictionary1.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\FinalSetting.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Game.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\MainPage.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\MainWindow.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Rules.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\ScriptsDB.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Settings.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\SignIn.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\SignUp.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\VariantOfGame.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\App.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра в слова_Content.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра в слова_MarkupCompile.cache
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра в слова_MarkupCompile.lref
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\App.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\FinalSetting.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Game.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\MainPage.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\MainWindow.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Rules.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\ScriptsDB.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Settings.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\SignIn.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\SignUp.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\VariantOfGame.baml
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра в слова.g.resources
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра_в_слова.Properties.Resources.resources
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра в слова.csproj.GenerateResource.cache
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра в слова.csproj.CoreCompileInputs.cache
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра в слова.csproj.CopyComplete
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра в слова.exe
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\Игра в слова.pdb
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\UserControl1.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VS 19 PROJECTS\WPF Игра в слова\Игра в слова\obj\Debug\UserControl1.baml
+D:\Новая папка\Игра в слова\bin\Debug\Игра в слова.exe.config
+D:\Новая папка\Игра в слова\bin\Debug\Игра в слова.exe
+D:\Новая папка\Игра в слова\bin\Debug\Игра в слова.pdb
+D:\Новая папка\Игра в слова\bin\Debug\MySql.Data.dll
+D:\Новая папка\Игра в слова\obj\Debug\Dictionary1.baml
+D:\Новая папка\Игра в слова\obj\Debug\FinalSetting.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\Game.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\MainPage.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\MainWindow.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\PersAccount.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\Rules.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\Settings.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\SignIn.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\SignUp.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\UserControl1.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\VariantOfGame.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\App.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\Игра в слова_Content.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Новая папка\Игра в слова\obj\Debug\Игра в слова_MarkupCompile.cache
+D:\Новая папка\Игра в слова\obj\Debug\Игра в слова_MarkupCompile.lref
+D:\Новая папка\Игра в слова\obj\Debug\App.baml
+D:\Новая папка\Игра в слова\obj\Debug\FinalSetting.baml
+D:\Новая папка\Игра в слова\obj\Debug\Game.baml
+D:\Новая папка\Игра в слова\obj\Debug\MainPage.baml
+D:\Новая папка\Игра в слова\obj\Debug\MainWindow.baml
+D:\Новая папка\Игра в слова\obj\Debug\PersAccount.baml
+D:\Новая папка\Игра в слова\obj\Debug\Rules.baml
+D:\Новая папка\Игра в слова\obj\Debug\Settings.baml
+D:\Новая папка\Игра в слова\obj\Debug\SignIn.baml
+D:\Новая папка\Игра в слова\obj\Debug\SignUp.baml
+D:\Новая папка\Игра в слова\obj\Debug\UserControl1.baml
+D:\Новая папка\Игра в слова\obj\Debug\VariantOfGame.baml
+D:\Новая папка\Игра в слова\obj\Debug\Игра в слова.g.resources
+D:\Новая папка\Игра в слова\obj\Debug\Игра_в_слова.Properties.Resources.resources
+D:\Новая папка\Игра в слова\obj\Debug\Игра в слова.csproj.GenerateResource.Cache
+D:\Новая папка\Игра в слова\obj\Debug\Игра в слова.csproj.CoreCompileInputs.cache
+D:\Новая папка\Игра в слова\obj\Debug\Игра в слова.exe
+D:\Новая папка\Игра в слова\obj\Debug\Игра в слова.pdb

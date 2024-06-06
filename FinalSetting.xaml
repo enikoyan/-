@@ -1,0 +1,127 @@
+﻿<Page x:Class="Игра_в_слова.FinalSetting"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Игра_в_слова"
+      mc:Ignorable="d" 
+      Background="#F4F4F4" 
+      Title="Игра в слова" Height="600" Width="950" MinHeight="600" MaxHeight="600" MinWidth="950" MaxWidth="950">
+
+    <Grid>
+        <Image Source="Resources/Images/bgLines.png" Stretch="Fill" Opacity="0.05" Margin="-269,-106,-289,-142" RenderTransformOrigin="0.5,0.5"/>
+        <TextBlock Style="{DynamicResource TextBlock}" FontSize="40" FontWeight="Black" HorizontalAlignment="Left" Margin="49,66,0,0" TextWrapping="Wrap" Text="Финальная настройка" VerticalAlignment="Top" Width="490"/>
+        <Image Margin="845,64,43,478" Source="Resources/Images/Logo.png" Stretch="Fill"/>
+
+        <Grid x:Name="playGrid" Visibility="Visible">
+            <DockPanel Margin="50 160 0 0" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Border Cursor="Hand" PreviewMouseDown="PlayToComputerBorder_PreviewMouseDown" Padding="24" x:Name="playToComputerBorder" Background="#1e2355" Width="340" Height="220" VerticalAlignment="Top" Style="{DynamicResource BorderStyle}">
+                    <StackPanel x:Name="playToComputerStack">
+                        <TextBlock Style="{DynamicResource TextBlock}" Text="Игра 
+                                   с компьютером" TextWrapping="Wrap" 
+                                   FontSize="34"
+                                   Foreground="White"
+                                   Margin="0 20 0 0"
+                                   >
+                        </TextBlock>
+                        <RadioButton Opacity="1" Checked="PlayToComputerRBtn_Checked" x:Name="playToComputerRBtn" Content="Выбрать" Foreground="white" FontSize="20" Margin="0 20 0 0"></RadioButton>
+                    </StackPanel>
+                </Border>
+                <Border Cursor="Hand" Padding="24" x:Name="playToPersonBorder" PreviewMouseDown="PlayToPersonBorder_PreviewMouseDown" Margin="60 0 0 0" Background="#1e2355" Width="340" Height="220" VerticalAlignment="Top" Style="{DynamicResource BorderStyle}">
+                    <StackPanel x:Name="playToPersonStack">
+                        <TextBlock Style="{DynamicResource TextBlock}" Text="Игра 
+                                   с другом" TextWrapping="Wrap" 
+                                   FontSize="34"
+                                   Foreground="White"
+                                   Margin="0 20 0 0"
+                                   >
+                        </TextBlock>
+                        <RadioButton Opacity="1" Checked="PlayToPersonRBtn_Checked" x:Name="playToPersonRBtn" Content="Выбрать" Foreground="white" FontSize="20" Margin="0 20 0 0"></RadioButton>
+                    </StackPanel>
+                </Border>
+            </DockPanel>
+
+            <Button x:Name="nextBtn" Style="{DynamicResource MainButton}" FontSize="14" Content="Дальше" IsDefault="True" Width="159" HorizontalAlignment="Left" Margin="51,414,0,132" Click="NextBtn_Click"/>
+            <Button x:Name="cancelBtn" Style="{DynamicResource SecondButton}" FontSize="14" Content="Назад" IsCancel="True" Width="159" HorizontalAlignment="Left" Margin="236,414,0,132" Click="CancelBtn_Click"/>
+        </Grid>
+
+        <Grid x:Name="putNamesGrid" Visibility="Hidden">
+            <Border Padding="35 35 40 0" x:Name="putNamesBorder" Style="{DynamicResource BorderStyle}" Width="400" Height="280" VerticalAlignment="Center" HorizontalAlignment="Center" Background="#c5d4eb" Margin="275,144,275,176">
+                <StackPanel x:Name="putNamesStack">
+                    <TextBox x:Name="tb1" Padding="15" Width="320"
+                        Style="{DynamicResource inputStyle}"
+                        PreviewMouseDown="NamePut_PreviewMouseDown"
+                        LostFocus="NamePut_LostFocus"
+                        HorizontalAlignment="Left"
+                        Tag="Имя 1-го игрока"
+                        Text="Имя 1-го игрока"
+                             >
+                    </TextBox>
+                    <TextBox x:Name="tb2" Padding="15" Width="320"
+                        Style="{DynamicResource inputStyle}"
+                        PreviewMouseDown="NamePut_PreviewMouseDown"
+                        LostFocus="NamePut_LostFocus"
+                        HorizontalAlignment="Left"
+                        Tag="Имя 2-го игрока"
+                        Text="Имя 2-го игрока"
+                             >
+                    </TextBox>
+                    <DockPanel x:Name="putNamesDock">
+                        <Button Style="{DynamicResource MainButton}"
+                            x:Name="playToPersonBtnPlay"
+                            Content="Играть" 
+                            Width="145" Height="48"
+                            HorizontalAlignment="Left"
+                            IsDefault="True"
+                            Margin="15 10 0 0" Click="PlayToPersonBtnPlay_Click"
+                            />
+                        <Button Style="{DynamicResource SecondButton}"
+                            x:Name="playToPersonBtnBack"
+                            Content="Отмена" 
+                            Width="145" Height="48"
+                            HorizontalAlignment="Left"
+                            IsCancel="True"
+                            Margin="15 10 0 0" Click="PlayToPersonBtnBack_Click"
+                            />
+                    </DockPanel>
+                </StackPanel>
+            </Border>
+        </Grid>
+
+        <Grid x:Name="putNameGrid" Visibility="Hidden">
+            <Border Padding="35 35 40 0" x:Name="putNameBorder" Style="{DynamicResource BorderStyle}" Width="400" Height="208" VerticalAlignment="Center" HorizontalAlignment="Center" Background="#c5d4eb" Margin="269,176,281,216">
+                <StackPanel x:Name="putNameStack">
+                    <TextBox x:Name="namePut" Padding="15" Width="320"
+                        Style="{DynamicResource inputStyle}"
+                        PreviewMouseDown="NamePut_PreviewMouseDown"
+                        LostFocus="NamePut_LostFocus"
+                        HorizontalAlignment="Left"
+                        Tag="Ваше имя:"
+                        Text="Ваше имя:"
+                             >
+                    </TextBox>
+                    <DockPanel x:Name="putNameDock">
+                        <Button Style="{DynamicResource MainButton}"
+                            x:Name="playToComputerBtnPlay"
+                            Content="Играть" 
+                            Width="145" Height="48"
+                            HorizontalAlignment="Left"
+                            IsDefault="True"
+                            Margin="15 10 0 0" Click="PlayToComputerBtnPlay_Click"
+                            />
+                        <Button Style="{DynamicResource SecondButton}"
+                            x:Name="playToComputerBtnBack"
+                            Content="Отмена" 
+                            Width="145" Height="48"
+                            HorizontalAlignment="Left"
+                            IsCancel="True"
+                            Margin="15 10 0 0" Click="PlayToComputerBtnBack_Click"
+                            />
+                    </DockPanel>
+                </StackPanel>
+            </Border>
+        </Grid>
+
+        <local:UserControl1 x:Name="persAccount" Visibility="Hidden"/>
+    </Grid>
+</Page>

@@ -1,0 +1,74 @@
+﻿<Page x:Class="Игра_в_слова.PersAccount"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Игра_в_слова"
+      mc:Ignorable="d" 
+      Background="#F4F4F4" 
+      Title="Игра в слова" Height="600" Width="950" MinHeight="620" MaxHeight="620" MinWidth="950" MaxWidth="950">
+
+    <Grid>
+        <Image Source="Resources/Images/bgLines.png" Stretch="Fill" Opacity="0.05" Margin="-269,-106,-289,-142" RenderTransformOrigin="0.5,0.5"/>
+
+        <DockPanel x:Name="row">
+            <Border x:Name="navBorder" HorizontalAlignment="Left" Background="#2142" Width="250" Padding="35">
+                <StackPanel x:Name="navStack">
+                    <DockPanel x:Name="navStackRow1">
+                        <Ellipse x:Name="accountImage" Width="70" Height="70" HorizontalAlignment="Left" >
+                            <Ellipse.Fill>
+                                <ImageBrush ImageSource="Resources/Images/persAccountImg/man.png"></ImageBrush>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0 0 10 0">
+                            <TextBlock x:Name="persName" Text="Эрик" Style="{DynamicResource TextBlock}" FontSize="21" VerticalAlignment="Center" HorizontalAlignment="Left"></TextBlock>
+                            <TextBlock x:Name="persAge" Text="Возраст: 21" Style="{DynamicResource TextBlock}" FontSize="16" Opacity="0.5" VerticalAlignment="Center" HorizontalAlignment="Right"></TextBlock>
+                        </StackPanel>
+
+                    </DockPanel>
+                    <StackPanel x:Name="navStackRow2" Margin="0 35 0 0">
+                        <Button x:Name="persData" Click="PersData_Click" Style="{DynamicResource SecondButton}" Content="Личная информация" Height="50" Margin="0 0 0 20"></Button>
+                        <Button x:Name="persState" Click="PersData_Click" Style="{DynamicResource SecondButton}" Content="Личная статистика" Height="50" Margin="0 0 0 20"></Button>
+                        <Button x:Name="generalState" Click="PersData_Click" Style="{DynamicResource SecondButton}" Content="Общая статистика" Height="50" Margin="0 0 0 20"></Button>
+                        <Button x:Name="gameHistory" Click="PersData_Click" Style="{DynamicResource SecondButton}" Content="История игр" Height="50" Margin="0 0 0 20"></Button>
+                        <Button x:Name="returnMenu" Click="ReturnMenu_Click" Style="{DynamicResource MainButton}" Background="#557" Content="Назад в меню" Height="50" Margin="0 0 0 20"></Button>
+                        <Button x:Name="exitAccount" Background="#6277" Style="{DynamicResource MainButton}" Content="Выйти из аккаунта  ⍇" Height="50" Margin="0 0 0 20" Click="exitAccount_Click"></Button>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+            <Border x:Name="infoBorder" HorizontalAlignment="Right" Background="#1311" Width="700" Padding="25">
+                <StackPanel x:Name="infoStack">
+                    <TextBlock Text="Персональная информация" FontSize="32" Style="{DynamicResource TextBlock}" FontWeight="Bold" Margin="0 25 0 25"></TextBlock>
+                    <!--Личная информация-->
+                    <DockPanel x:Name="infoStackPersonal" Margin="0 15 0 0">
+                        <StackPanel x:Name="infoStackPersonalCollumn1" Margin="0 0 30 0">
+                            <TextBlock Text="Логин" Style="{DynamicResource TextBlock}" FontSize="18"></TextBlock>
+                            <TextBox IsEnabled="False" Style="{DynamicResource inputStyle}" HorizontalAlignment="Left" Margin="-5,5,0,10" Width="184"></TextBox>
+                            <TextBlock Text="Пароль" Style="{DynamicResource TextBlock}" FontSize="18"/>
+                            <TextBox IsEnabled="False" Style="{DynamicResource inputStyle}" HorizontalAlignment="Left" Margin="-5,5,0,10" Width="184"/>
+                        </StackPanel>
+
+                        <StackPanel x:Name="infoStackPersonalColumn2" Margin="0 0 30 0">
+                            <TextBlock Text="Дата рождения" Style="{DynamicResource TextBlock}" FontSize="18"/>
+                            <TextBox IsEnabled="False" Style="{DynamicResource inputStyle}" HorizontalAlignment="Left" Margin="-5,5,0,10" Width="213"/>
+                            <TextBlock Text="Дата регистрации" Style="{DynamicResource TextBlock}" FontSize="18"/>
+                            <TextBox IsEnabled="False" Style="{DynamicResource inputStyle}" HorizontalAlignment="Left" Margin="-5,5,0,10" Width="213"/>
+                        </StackPanel>
+
+                        <StackPanel x:Name="infoStackPersonalColumn3">
+                            <TextBlock Text="Email" Style="{DynamicResource TextBlock}" FontSize="18"/>
+                            <TextBox IsEnabled="False" Style="{DynamicResource inputStyle}" HorizontalAlignment="Left" Margin="-5,5,0,10" Width="184"/>
+                            <TextBlock Text="Страна" Style="{DynamicResource TextBlock}" FontSize="18"/>
+                            <TextBox IsEnabled="False" Style="{DynamicResource inputStyle}" HorizontalAlignment="Left" Margin="-5,5,0,5" Width="184"/>
+                        </StackPanel>
+                    </DockPanel>
+                    <DockPanel x:Name="infoStackPersonalButtons" HorizontalAlignment="Left" Margin="0 15 0 0">
+                        <Button x:Name="changeDataBtn" Width="160" Height="50" Style="{DynamicResource MainButton}" Content="Изменить данные" Margin="0 0 20 0" Click="ChangeDataBtn_Click"></Button>
+                        <Button x:Name="saveChangedDataBtn" Width="160" Height="50" Style="{DynamicResource SecondButton}" Content="Сохранить"></Button>
+                    </DockPanel>
+
+                </StackPanel>
+            </Border>
+        </DockPanel>
+    </Grid>
+</Page>

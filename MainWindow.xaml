@@ -1,0 +1,14 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Игра_в_слова"
+        xmlns:Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero" x:Class="Игра_в_слова.MainWindow"
+        mc:Ignorable="d"
+        Title="Игра в слова" Height="620" Width="950" MaxHeight="620" MaxWidth="950"
+        Background="#F4F4F4"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanMinimize">
+    <Frame Name="MainPage" NavigationUIVisibility="Hidden"></Frame>
+</Window> 

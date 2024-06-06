@@ -1,0 +1,23 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Игра_в_слова"
+             xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" x:Class="Игра_в_слова.UserControl1"
+             mc:Ignorable="d" 
+             Height="600" Width="950" MinHeight="600" MaxHeight="600" MinWidth="950" MaxWidth="950">
+    <Grid>
+        <!--Навигация по страницам-->
+        <DockPanel x:Name="navPanel" HorizontalAlignment="Left" VerticalAlignment="Center" Width="813" Margin="47,44,0,536" Opacity="0.5" Cursor="" Visibility="Hidden">
+            <TextBlock Text="Главная страница" Style="{DynamicResource TextBlock}" FontSize="14" Margin="0 0 15 0" TextDecorations="underline"/>
+            <TextBlock Text="Выбор типа игры" Style="{DynamicResource TextBlock}" FontSize="14" Margin="0 0 15 0" TextDecorations="underline"/>
+            <TextBlock Text="Авторизация / Регистрация" Style="{DynamicResource TextBlock}" FontSize="14" Margin="0 0 15 0" TextDecorations="underline"/>
+            <TextBlock Text="Финальная настройка" Style="{DynamicResource TextBlock}" FontSize="14" Margin="0 0 15 0" TextDecorations="underline"/>
+            <TextBlock Text="Игра" Style="{DynamicResource TextBlock}" FontSize="14" TextDecorations="underline"/>
+        </DockPanel>
+
+        <TextBlock x:Name="tb" PreviewMouseDown="TextBlock_PreviewMouseDown" Style="{DynamicResource regText}" TextDecorations="underline" Text="Личный кабинет" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="55 0 55 85" Opacity="0.4"/>
+        
+    </Grid>
+</UserControl>
